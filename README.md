@@ -1,5 +1,7 @@
 =======================================================================================
+
 Symantec AntiVirus(TM) for Linux README.TXT Date: August 2012 Copyright (c) 2012 Symantec Corporation. All rights reserved. Symantec, the Symantec Logo, and Symantec AntiVirus are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries. Other names may be trademarks of their respective owners. The Licensed Software and Documentation are deemed to be "commercial computer software" and "commercial computer software documentation" as defined in FAR Sections 12.212 and DFARS Section 227.7202.
+
 =======================================================================================
 
 ========================================================================================
@@ -13,6 +15,7 @@ possible for Symantec to officially support all of them. If you do not see Auto-
 kernel modules for your Linux distribution and versions in the latest release, you can 
 try to compile your own kernel modules by using the source code and library files that 
 Symantec provides. 
+
 ========================================================================================
 
  - Make sure the source for your kernel is installed. If you are using a vendor-supplied
