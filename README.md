@@ -1,4 +1,4 @@
-Symantec AntiVirus(TM) for Linux README.TXT Date: August 2012 Copyright (c) 2012 Symantec Corporation. All rights reserved. Symantec, the Symantec Logo, and Symantec AntiVirus are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries. Other names may be trademarks of their respective owners. The Licensed Software and Documentation are deemed to be "commercial computer software" and "commercial computer software documentation" as defined in FAR Sections 12.212 and DFARS Section 227.7202.
+Symantec AntiVirus(TM) for Linux : August 2012 Copyright (c) 2012 Symantec Corporation. All rights reserved. Symantec, the Symantec Logo, and Symantec AntiVirus are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries. Other names may be trademarks of their respective owners. The Licensed Software and Documentation are deemed to be "commercial computer software" and "commercial computer software documentation" as defined in FAR Sections 12.212 and DFARS Section 227.7202.
 
 ### HOW TO COMPILE AND INSTALL AUTO-PROTECT KERNEL MODULES
 
